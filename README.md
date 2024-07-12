@@ -7,3 +7,5 @@ Basic Programs
 5. Swapping two variables without using a third variable and input by the user.
 6. Display the smallest of three numbers using user input.
 7. Print the greatest of two numbers using the decision statement and input by the user.
+8. Print the second-highest number and the user input three numbers.
+9. Print the second-lowest number and the user input three numbers.
