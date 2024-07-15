@@ -9,3 +9,5 @@ Basic Programs
 7. Print the greatest of two numbers using the decision statement and input by the user.
 8. Print the second-highest number and the user input three numbers.
 9. Print the second-lowest number and the user input three numbers.
+10. Given character is vowel or not and input by the user.
+11. Print each digit square value in a given range using a looping statement and input by the user.(Range:1 - 10)
