@@ -15,3 +15,5 @@ Basic Programs
 13. Print numbers divisible by 2 and 6 in a given range(range:1-100) and input by the user.
 14. Print numbers divisible by 3 and 7 in a given range(range:1-100) and input by the user.
 15. Print the Sum of Factors in a given number.
+16. Check the given number is single or not and input by the user.
+17. Calculate the currency entered by the user.
