@@ -11,3 +11,5 @@ Basic Programs
 9. Print the second-lowest number and the user input three numbers.
 10. Given character is vowel or not and input by the user.
 11. Print each digit square value in a given range using a looping statement and input by the user.(Range:1 - 10)
+12. Print the given number factor using the looping statement and input by the user.
+13. Print numbers divisible by 2 and 6 in a given range(range:1-100) and input by the user.
