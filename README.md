@@ -20,3 +20,4 @@ Basic Programs
 18. Print the given number as a Perfect number or not using a looping Statement.
 19. Program to compute the Least Common Multiple (LCM) of given two numbers.
 20. Program to compute the Greatest Common Divisor (GCD) of given two numbers.
+21. Program to convert the given number from Decimal to Binary and input by the user.
