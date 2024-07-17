@@ -15,6 +15,5 @@ Basic Programs
 13. Print numbers divisible by 2 and 6 in a given range(range:1-100) and input by the user.
 14. Print numbers divisible by 3 and 7 in a given range(range:1-100) and input by the user.
 15. Print the Sum of Factors in a given number.
-16. Print the Vowels in the given range A to Z using a looping statement.
-17. Check the given number is single or not and input by the user.
-18. Calculate the currency entered by the user.
+16. Print the Vowels from A to Z using a looping statement.
+17. Print the number is Prime or not using a looping statement and input by the user.
