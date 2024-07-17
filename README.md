@@ -17,4 +17,6 @@ Basic Programs
 15. Print the Sum of Factors in a given number.
 16. Print the Vowels from A to Z using a looping statement.
 17. Print the number as Prime or not using a looping statement and input by the user.
-18. Print the given number is a Perfect number or not using a looping Statement.
+18. Print the given number as a Perfect number or not using a looping Statement.
+19. Program to compute the Least Common Multiple (LCM) of given two numbers.
+20. Program to compute the Greatest Common Divisor (GCD) of given two numbers.
