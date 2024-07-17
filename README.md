@@ -16,4 +16,5 @@ Basic Programs
 14. Print numbers divisible by 3 and 7 in a given range(range:1-100) and input by the user.
 15. Print the Sum of Factors in a given number.
 16. Print the Vowels from A to Z using a looping statement.
-17. Print the number is Prime or not using a looping statement and input by the user.
+17. Print the number as Prime or not using a looping statement and input by the user.
+18. Print the given number is a Perfect number or not using a looping Statement.
